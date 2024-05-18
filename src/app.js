@@ -1,4 +1,3 @@
-// new comment
 // Require libaries
 const path = require('path')
 const express = require('express')
